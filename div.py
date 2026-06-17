@@ -1,0 +1,7 @@
+def div():
+    a = int(input("Enter first number: "))
+    b = int(input("Enter second number: "))
+    return a / b
+
+result = div()
+print("Quotient =", result)
