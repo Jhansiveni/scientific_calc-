@@ -84,6 +84,54 @@ def cube_root(number):
     return number ** (1/3)
 
 def is_even(number):
+
+def floor_value(number):
+    return math.floor(number)
+
+def ceil_value(number)
+i    return math.ceil(number)
+
+def radians(angle):
+    return math.radians(angle)
+
+def degrees(angle):
+    return math.degrees(angle)
+
+print("Extra Functions Loaded"):
+
+
+
+
+
+def cube_root(number):
+    return number ** (1/3)
+
+def is_even(number):
+    return number % 2 == 0
+
+def is_odd(number):
+    return number % 2 != 0i    return math.ceil(number)
+
+def radians(angle):
+    return math.radians(angle)
+
+def degrees(angle):
+    return math.degrees(angle)
+
+print("Extra Functions Loaded"):
+
+
+
+
+
+def cube_root(number):
+    return number ** (1/3)
+
+def is_even(number):
+    return number % 2 == 0
+
+main.py [dos] (12:08 01/07/2026)                                                                                                                                    87,1 92%
+-- INSERT --
     return number % 2 == 0
 
 def is_odd(number):
