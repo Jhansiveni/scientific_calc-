@@ -40,3 +40,6 @@ def natural_log(number):
 def cosine(angle_degrees):
     return math.cos(math.radians(angle_degrees))
 
+def tangent(angle_degrees):
+    return math.tan(math.radians(angle_degrees))
+
